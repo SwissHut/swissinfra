@@ -1,1 +1,1 @@
-variable "varsrg" {}
+variable "varrg" {}
